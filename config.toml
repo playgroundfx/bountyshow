@@ -1,4 +1,4 @@
-baseURL = "https://bounty.show/"
+baseURL = "https://www.bounty.show/"
 languageCode = "en-us"
 title = "Bounty Show"
 theme = "hugo-whisper-theme"
@@ -23,7 +23,7 @@ summaryLength = 30
 
 [[menu.main]]
     name = "Omnibus"
-    url = "https://omnibus.live/"
+    url = "https://www.omnibus.live/"
     weight = 2
 
 [params]
